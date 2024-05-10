@@ -7,5 +7,6 @@ securing API endpoints. The project showcases the use of two authentication meth
   authentication mechanisms.
 - **Basic Authentication with Centralized Identity Management:** This is the traditional username and password
   authentication for users, handled through a centralized identity provider.
-  For a detailed explanation of the implementation and concepts, refer
-  to [this article](https://medium.com/@LynneMunini/securing-your-spring-boot-3-app-multi-factor-authentication-with-api-key-and-basic-auth-e6835a3687d1).
+
+For a detailed explanation of the implementation and concepts, refer
+to [this article](https://medium.com/@LynneMunini/securing-your-spring-boot-3-app-multi-factor-authentication-with-api-key-and-basic-auth-e6835a3687d1).
