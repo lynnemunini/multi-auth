@@ -1,5 +1,6 @@
 package com.example.multiauth;
 
+import com.example.multiauth.service.AuthenticationService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.ServletRequest;
