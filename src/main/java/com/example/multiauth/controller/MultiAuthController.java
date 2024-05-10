@@ -1,4 +1,4 @@
-package com.example.multiauth.service;
+package com.example.multiauth.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
